@@ -724,3 +724,5 @@ namespace HZH_Controls.Forms
         public static extern IntPtr ExtCreateRegion(IntPtr lpXform, uint nCount, IntPtr rgnData);
     }
 }
+
+// 9298e2
